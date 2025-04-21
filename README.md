@@ -2,7 +2,7 @@
 
 # Dataset Used:
 - Original file: `netflix_titles.csv`
-- Cleaned file: `netflix_titles_cleaned.csv`
+- Cleaned file: `cleaned_netflix_titles.csv`
 
 # What Was Done:
 This task involved cleaning missing data from the Netflix dataset. Here's what was fixed:
